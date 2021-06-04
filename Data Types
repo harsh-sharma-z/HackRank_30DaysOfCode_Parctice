@@ -1,0 +1,6 @@
+num=int(input())
+doub=eval(input())
+st=input()
+print(i+num)
+print(d+doub)
+print(s+st)
